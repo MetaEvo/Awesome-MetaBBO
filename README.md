@@ -33,7 +33,7 @@
 
 ## 😁Contact Us
 <div align=center>
-<img src="fig/gmc.png" width="300">
+<img src="https://github.com/MetaEvo/.github/blob/main/profile/logo.png" width="300">
 </div>
 
 👨‍💻👩‍💻We are a research team mainly focus on Meta-Black-Box-Optimization (MetaBBO), which assists automated algorithm design for Evolutionary Computation. 
