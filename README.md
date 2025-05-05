@@ -195,7 +195,6 @@ All papers are sorted by year of publication.
 #### 2.1.1 Algorithm Selection
 |Algorithm|Paper|Optimization Type|Low-Level Optimizer|RL|Code Resource|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|MSDE|Lu, Yiling, et al. "[**A multi-strategy self-adaptive differential evolution algorithm for assembly hybrid flowshop lot-streaming scheduling with component sharing**](https://www.sciencedirect.com/science/article/pii/S2210650224003213)." Swarm and Evolutionary Computation 92 (2025).|SOP|DE|Tabular Q-learning|-|
 |HHRL-MAR|Zhu N, Zhao F, Cao J. "[**A Hyperheuristic and Reinforcement Learning Guided Meta-heuristic Algorithm Recommendation**](https://ieeexplore.ieee.org/abstract/document/10580058/)" 2024 27th International Conference on Computer Supported Cooperative Work in Design (2024)|SOP|SI|Tabular Q-learning|-|
 |R2-RLMOEA|Tahernezhad-Javazm F, Rankin D, Bois N D, et al. "[**R2 Indicator and Deep Reinforcement Learning Enhanced Adaptive Multi-Objective Evolutionary Algorithm**](https://arxiv.org/abs/2404.08161)". arXiv preprint arXiv:2404.08161 (2024).|MOOP|EAs|DDQN|-|
 |RL-DAS|Guo, Hongshu, et al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708/)." IEEE Transactions on Systems, Man, and Cybernetics: Systems (2024).|SOP|DE|PPO|[RL-DAS](https://github.com/GMC-DRL/RL-DAS)|
@@ -204,6 +203,7 @@ All papers are sorted by year of publication.
 
 |Algorithm|Paper|Optimization Type|Low-Level Optimizer|RL|Code Resource|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|MSDE|Lu, Yiling, et al. "[**A multi-strategy self-adaptive differential evolution algorithm for assembly hybrid flowshop lot-streaming scheduling with component sharing**](https://www.sciencedirect.com/science/article/pii/S2210650224003213)." Swarm and Evolutionary Computation 92 (2025).|SOP|DE|Tabular Q-learning|-|
 |rlDE|Yang, Xu, et al. "Reinforcement learning Based Automated Design of Differential Evolution Algorithm for Black-box Optimization." arXiv preprint arXiv:2501.12881 (2025).|SOP|DE|DDQN|-|
 |DRL-SAEA|Shao, Shuai, Ye Tian, and Yajie Zhang. "[**Deep reinforcement learning assisted surrogate model management for expensive constrained multi-objective optimization**](https://www.sciencedirect.com/science/article/pii/S2210650224003559)." Swarm and Evolutionary Computation 92 (2025).|ECMOP|SAEA|DQN|-|
 |ConfigX|Guo, Hongshu, et al. "[**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**](https://arxiv.org/abs/2412.07507)." arXiv preprint arXiv:2412.07507 (2024).|SOP|EAs|PPO|-|
