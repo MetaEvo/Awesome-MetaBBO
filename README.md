@@ -26,8 +26,8 @@
 @article{ma2024toward,
   title={Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization},
   author={Ma, Zeyuan and Guo, Hongshu and Gong, Yue-Jiao and Zhang, Jun and Tan, Kay Chen},
-  journal={arXiv preprint arXiv:2411.00625},
-  year={2024}
+  journal={IEEE Transactions on Evolutionary Computation},
+  year={2025}
 }
 ```
 
