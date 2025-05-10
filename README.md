@@ -146,6 +146,7 @@ All papers are sorted by year of publication.
 
 |Benchmark|Paper|Code Resource|Optimization Type|
 |:-:|:-:|:-:|:-:|
+|BLADE|van Stein N, Kononova A V, Yin H, et al. "[**BLADE: Benchmark suite for LLM-driven Automated Design and Evolution of iterative optimisation heuristics**](https://arxiv.org/pdf/2504.20183)." arXiv preprint arXiv:2504.20183, (2025).|-|SOP|
 |UAV-path-planning|Shehadeh, Mhd Ali, and Jakub Kudela. "[**Benchmarking global optimization techniques for unmanned aerial vehicle path planning**](https://arxiv.org/abs/2501.14503)." arXiv preprint arXiv:2501.14503 (2025).|-|SOP|
 |GP-based|He Y, Aranha C. "[**Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming**](https://arxiv.org/abs/2403.14146)". arXiv preprint arXiv:2403.14146 (2024).|[GP-based](https://github.com/Y1fanHE/cec2024)|SOP,MOOP|
 |SELECTOR|Benjamins C, Cenikj G, Nikolikj A, et al. "[**Instance selection for dynamic algorithm configuration with reinforcement learning: Improving generalization**](https://dl.acm.org/doi/abs/10.1145/3638530.3654291)" Proceedings of the Genetic and Evolutionary Computation Conference Companion. (2024).|[automl/instance-dac]( https://github.com/automl/instance-dac)|Comprehensive platform|
@@ -195,6 +196,7 @@ All papers are sorted by year of publication.
 #### 2.1.1 Algorithm Selection
 |Algorithm|Paper|Optimization Type|Low-Level Optimizer|RL|Code Resource|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|TSRL-CMM|Liu X, Wang T, Zeng Z, et al. "[**Three stage based reinforcement learning for combining multiple metaheuristic algorithms**](https://www.sciencedirect.com/science/article/abs/pii/S2210650225000938)". Swarm and Evolutionary Computation, 2025, 95: 101935.|SOP|PSO,AVOA,MPA,WOA|Tabular Q-learning|[TSRL-CMM](https://github.com/xtongliu/TSRL-CMM-code)|
 |HHRL-MAR|Zhu N, Zhao F, Cao J. "[**A Hyperheuristic and Reinforcement Learning Guided Meta-heuristic Algorithm Recommendation**](https://ieeexplore.ieee.org/abstract/document/10580058/)" 2024 27th International Conference on Computer Supported Cooperative Work in Design (2024)|SOP|SI|Tabular Q-learning|-|
 |R2-RLMOEA|Tahernezhad-Javazm F, Rankin D, Bois N D, et al. "[**R2 Indicator and Deep Reinforcement Learning Enhanced Adaptive Multi-Objective Evolutionary Algorithm**](https://arxiv.org/abs/2404.08161)". arXiv preprint arXiv:2404.08161 (2024).|MOOP|EAs|DDQN|-|
 |RL-DAS|Guo, Hongshu, et al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708/)." IEEE Transactions on Systems, Man, and Cybernetics: Systems (2024).|SOP|DE|PPO|[RL-DAS](https://github.com/GMC-DRL/RL-DAS)|
@@ -389,6 +391,7 @@ All papers are sorted by year of publication.
 ### 3.2📊 Landscape Feature
 |Feature|Paper|
 |:-:|:-:|
+|LAS|Liu F, Zhang Q, Tong X, et al. "[**Fitness Landscape of Large Language Model-Assisted Automated Algorithm Search**](https://arxiv.org/pdf/2504.19636)". arXiv preprint arXiv:2504.19636, (2025).|
 |NeurELA|Ma Z, Chen J, Guo H, et al. "[**Neural Exploratory Landscape Analysis**](https://arxiv.org/abs/2408.10672)". arXiv preprint arXiv:2408.10672 (2024).|
 |DoE2Vec|van Stein B, Long F X, Frenzel M, et al. "[**Doe2vec: Deep-learning based features for exploratory landscape analysis**](https://dl.acm.org/doi/abs/10.1145/3583133.3590609)" Proceedings of the Companion Conference on Genetic and Evolutionary Computation. (2023).|
 |TransOpt|Cenikj G, Petelin G, Eftimov T. "[**TransOptAS: Transformer-Based Algorithm Selection for Single-Objective Optimization**](https://dl.acm.org/doi/abs/10.1145/3638530.3654191)" Proceedings of the Genetic and Evolutionary Computation Conference Companion. (2024).|
@@ -401,6 +404,7 @@ All papers are sorted by year of publication.
 ### 3.3🛠 Application
 |Algorithm|Paper|Learning paradigm|Automated algorithm design task|Code|Application|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|HVRP-MTWSTT|Nguyen D V A, Gunawan A, Misir M, et al. "[**Deep reinforcement learning for solving the stochastic e-waste collection problem**](https://www.sciencedirect.com/science/article/abs/pii/S0377221725003182)". European Journal of Operational Research, 2025.|Meta-RL|-|-|e-waste collection problems|
 |RPSO|Zhang, Zihang, et al. "[**Reinforcement learning-based particle swarm optimization for wind farm layout problems**](https://www.sciencedirect.com/science/article/pii/S0360544224038283)." Energy 313 (2024).|Meta-RL|Algorithm Configuration|[RPSO](https://toyamaailab.github.io/)|Wind farm layout problems|
 |The investigation of the ability of OpenAI-ES|Lorenc, Matyáš. "[**Utilizing Evolution Strategies to Train Transformers in Reinforcement Learning**](https://arxiv.org/abs/2501.13883)." arXiv preprint arXiv:2501.13883 (2025).|-|-|[Code](https://github.com/Mafi412/Evolution-Strategies-and-Decision-Transformers)|Training of Networks|
 |DQLGA|Q. Chen and W. Ding, "[**A Genetic Algorithm Based on Deep Q-learning in Optimization of Remote Sensing Data Discretization**](https://ieeexplore.ieee.org/document/10730790)" IEEE Transactions on Evolutionary Computation (2024)|Meta-RL|Algorithm Configuration|-|Remote Sensing|
