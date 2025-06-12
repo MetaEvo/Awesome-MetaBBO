@@ -146,6 +146,8 @@ All papers are sorted by year of publication.
 
 |Benchmark|Paper|Code Resource|Optimization Type|
 |:-:|:-:|:-:|:-:|
+|SEvoBench|Yang Y, Zhao J, Yang T. "[**SEvoBench: A C++ Framework For Evolutionary Single-Objective Optimization Benchmarking**](https://arxiv.org/abs/2505.17430)." arXiv preprint arXiv:2505.17430, (2025).|[SEvoBench](https://github.com/yangyongkang2000/SEvoBench)|SOP|
+|Bencher|Papenmeier L, Nardi L. "[**Bencher: Simple and Reproducible Benchmarking for Black-Box Optimization**](https://arxiv.org/pdf/2505.21321)." arXiv preprint arXiv:2505.21321, (2025).|[Bencher](https://github.com/LeoIV/bencher)|SOP|
 |BLADE|van Stein N, Kononova A V, Yin H, et al. "[**BLADE: Benchmark suite for LLM-driven Automated Design and Evolution of iterative optimisation heuristics**](https://arxiv.org/pdf/2504.20183)." arXiv preprint arXiv:2504.20183, (2025).|-|SOP|
 |UAV-path-planning|Shehadeh, Mhd Ali, and Jakub Kudela. "[**Benchmarking global optimization techniques for unmanned aerial vehicle path planning**](https://arxiv.org/abs/2501.14503)." arXiv preprint arXiv:2501.14503 (2025).|-|SOP|
 |GP-based|He Y, Aranha C. "[**Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming**](https://arxiv.org/abs/2403.14146)". arXiv preprint arXiv:2403.14146 (2024).|[GP-based](https://github.com/Y1fanHE/cec2024)|SOP,MOOP|
