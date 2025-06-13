@@ -295,6 +295,7 @@ All papers are sorted by year of publication.
 #### 2.2.2 Algorithm Configuration
 |Algorithm|Paper|Optimization Type|Low-Level Optimizer|Code Resource|
 |:-:|:-:|:-:|:-:|:-:|
+|EvoGrad|Citterio, Beatrice FR, and Andrea Tangherloni. "[**EvoGrad: Metaheuristics in a Differentiable Wonderland**](https://arxiv.org/pdf/2506.06320)." arXiv preprint arXiv:2506.06320 (2025).|SOP|-|EAs|
 |Neural optimized metaheuristic algorithm|Oyelade, Olaide N., et al. "[**Deep learning at the service of metaheuristics for solving numerical optimization problems**](https://link.springer.com/article/10.1007/s00521-024-10610-7)." Neural Computing and Applications (2025).|SOP|-|-|
 |ada-smoDE|Zhang H, Shi J, Sun J, et al. "[**A Gradient-based Method for Differential Evolution Parameter Control by Smoothing**](https://dl.acm.org/doi/abs/10.1145/3638530.3654185)" Proceedings of the Genetic and Evolutionary Computation Conference Companion. (2024).|SOP|DE|-|
 
@@ -355,6 +356,7 @@ All papers are sorted by year of publication.
 #### 2.4.3 Algorithm Generation
 |Algorithm|Paper|Optimization Type|Low-Level Optimizer|Code Resource|
 |:-:|:-:|:-:|:-:|:-:|
+|REMoH|Forniés-Tabuenca, Diego, et al. "[**REMoH: A Reflective Evolution of Multi-objective Heuristics approach via Large Language Models**](https://arxiv.org/pdf/2506.07759)." arXiv preprint arXiv:2506.07759 (2025).|MOP|-|-|
 |LLMOPT|Jiang, Caigao, et al. "[**LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch**](https://arxiv.org/pdf/2410.13213)" arXiv preprint arXiv:2410.13213 (2024).|SOP|-|[caigaojiang/LLMOPT](https://github.com/caigaojiang/LLMOPT)|
 |FunSearch|Romera-Paredes B, Barekatain M, Novikov A, et al. "[**Mathematical discoveries from program search with large language models**](https://www.nature.com/articles/s41586-023-06924-6)". Nature, (2024).|CO|-|-|
 |LLM-EPS|Zhang R, Liu F, Lin X, et al. "[**Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models**](https://link.springer.com/chapter/10.1007/978-3-031-70068-2_12)"International Conference on Parallel Problem Solving from Nature. (2024).|-|-|-|
