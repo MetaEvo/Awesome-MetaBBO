@@ -372,6 +372,7 @@ All papers are sorted by year of publication.
 #### 2.4.4 Solution Manipulation
 |Algorithm|Paper|Optimization Type|Low-Level Optimizer|Code Resource|
 |:-:|:-:|:-:|:-:|:-:|
+|UniSO|Tan, Rong-Xi, et al. "[**Towards Universal Offline Black-Box Optimization via Learning Language Model Embeddings**](https://arxiv.org/pdf/2506.07109)." arXiv preprint arXiv:2506.07109 (2025).|SOP|-|[UniSO](https://github.com/lamda-bbo/universal-offline-bbo)|
 |Model Swarms|Feng, Shangbin, et al. "[**Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence**](https://arxiv.org/abs/2410.11163)" arXiv preprint arXiv:2410.11163 (2024).|SOP|PSO|-|
 |EvoPrompt|Guo, Qingyan, et al. "[**Connecting large language models with evolutionary algorithms yields powerful prompt optimizers**](https://openreview.net/forum?id=ZG3RaNIsO8)." The Twelfth International Conference on Learning Representations (2024).|SOP|GA, DE|[beeevita/EvoPrompt](https://github.com/beeevita/EvoPrompt)|
 |CCMO-LLM|Wang, Zeyi, et al. "[**Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization**](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_18)." International Conference on Intelligent Computing (2024).|CMOP|-|-|
