@@ -146,6 +146,7 @@ All papers are sorted by year of publication.
 
 |Benchmark|Paper|Code Resource|Optimization Type|
 |:-:|:-:|:-:|:-:|
+|Diverse-BBO| Wang C, Ma Z, et al. "[**Instance generation for meta-black-box optimization through latent space reverse engineering**](https://arxiv.org/abs/2509.15810)". arXiv preprint arXiv:2509.15810, (2025).|[Diverse-BBO](https://github.com/MetaEvo/Diverse-BBO)|SOP|
 |SEvoBench|Yang Y, Zhao J, Yang T. "[**SEvoBench: A C++ Framework For Evolutionary Single-Objective Optimization Benchmarking**](https://arxiv.org/abs/2505.17430)." arXiv preprint arXiv:2505.17430, (2025).|[SEvoBench](https://github.com/yangyongkang2000/SEvoBench)|SOP|
 |Bencher|Papenmeier L, Nardi L. "[**Bencher: Simple and Reproducible Benchmarking for Black-Box Optimization**](https://arxiv.org/pdf/2505.21321)." arXiv preprint arXiv:2505.21321, (2025).|[Bencher](https://github.com/LeoIV/bencher)|SOP|
 |BLADE|van Stein N, Kononova A V, Yin H, et al. "[**BLADE: Benchmark suite for LLM-driven Automated Design and Evolution of iterative optimisation heuristics**](https://arxiv.org/pdf/2504.20183)." arXiv preprint arXiv:2504.20183, (2025).|-|SOP|
