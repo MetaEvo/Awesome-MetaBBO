@@ -146,6 +146,11 @@ All papers are sorted by year of publication.
 
 |Benchmark|Paper|Code Resource|Optimization Type|
 |:-:|:-:|:-:|:-:|
+|LLM-EBG|Ono Y, Harada T, Miura Y. "[**An Evolutionary Framework for Automatic Optimization Benchmark Generation via Large Language Models**](https://arxiv.org/pdf/2601.12723)". arXiv preprint arXiv:2601.12723, (2026).|-|SOP|
+|LLaMEA-based function generator|Skvorc U, van Stein N, Seiler M, et al. "[**LLM Driven Design of Continuous Optimization Problems with Controllable High-level Properties**](https://arxiv.org/abs/2601.18846)" arXiv preprint arXiv:2601.18846, (2026).|[LLaMEA-based function generator](https://doi.org/10.5281/zenodo.18306723)|SOP|
+|EoB|Wang C, Ma S, Ma Z, et al. "[**Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model**](https://arxiv.org/abs/2601.21877)". arXiv preprint arXiv:2601.21877, (2026).|-|SOP|
+|PORTAL|Yazdani D, Peng M, Yazdani D, et al. "[**PORTAL: Controllable Landscape Generator for Continuous Optimization-Part I: Framework**](https://arxiv.org/abs/2512.00288)". arXiv preprint arXiv:2512.00288, (2025).|[PORTAL](https://github.com/EvoMindLab/PORTAL)|SOP|
+|IOHClustering| Vermetten D, Dinu C V, Gallagher M. "[**A standardized benchmark set of clustering problem instances for comparing black-box optimizers**](https://dl.acm.org/doi/pdf/10.1145/3729878.3746699)". Proceedings of the 18th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (2025).|[IOHClustering](https://github.com/IOHprofiler/IOHClustering)|SOP|
 |Diverse-BBO| Wang C, Ma Z, et al. "[**Instance generation for meta-black-box optimization through latent space reverse engineering**](https://arxiv.org/abs/2509.15810)". arXiv preprint arXiv:2509.15810, (2025).|[Diverse-BBO](https://github.com/MetaEvo/Diverse-BBO)|SOP|
 |SEvoBench|Yang Y, Zhao J, Yang T. "[**SEvoBench: A C++ Framework For Evolutionary Single-Objective Optimization Benchmarking**](https://arxiv.org/abs/2505.17430)." arXiv preprint arXiv:2505.17430, (2025).|[SEvoBench](https://github.com/yangyongkang2000/SEvoBench)|SOP|
 |Bencher|Papenmeier L, Nardi L. "[**Bencher: Simple and Reproducible Benchmarking for Black-Box Optimization**](https://arxiv.org/pdf/2505.21321)." arXiv preprint arXiv:2505.21321, (2025).|[Bencher](https://github.com/LeoIV/bencher)|SOP|
